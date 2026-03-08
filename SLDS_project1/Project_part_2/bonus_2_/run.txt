@@ -1,0 +1,37 @@
+Processing: train + 0_no_augmentation
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/train_0_no_augmentation_tsne.png
+Processing: train + 1_random_rotation
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/train_1_random_rotation_tsne.png
+Processing: train + 2_gaussian_blur
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/train_2_gaussian_blur_tsne.png
+Processing: train + 3_affine_transform
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/train_3_affine_transform_tsne.png
+Processing: train + 4_translation_only
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/train_4_translation_only_tsne.png
+Processing: train + 5_all_transforms
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/train_5_all_transforms_tsne.png
+Processing: valid + 0_no_augmentation
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/valid_0_no_augmentation_tsne.png
+Processing: valid + 1_random_rotation
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/valid_1_random_rotation_tsne.png
+Processing: valid + 2_gaussian_blur
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/valid_2_gaussian_blur_tsne.png
+Processing: valid + 3_affine_transform
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/valid_3_affine_transform_tsne.png
+Processing: valid + 4_translation_only
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/valid_4_translation_only_tsne.png
+Processing: valid + 5_all_transforms
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/valid_5_all_transforms_tsne.png
+Processing: test + 0_no_augmentation
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/test_0_no_augmentation_tsne.png
+Processing: test + 1_random_rotation
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/test_1_random_rotation_tsne.png
+Processing: test + 2_gaussian_blur
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/test_2_gaussian_blur_tsne.png
+Processing: test + 3_affine_transform
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/test_3_affine_transform_tsne.png
+Processing: test + 4_translation_only
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/test_4_translation_only_tsne.png
+Processing: test + 5_all_transforms
+Saved: /home/nkd/ouyangzl/Project/bonus_2/images/test_5_all_transforms_tsne.png
+✅ 所有可视化完成！
