@@ -22,6 +22,8 @@ This repository contains coursework deliverables for **EE340 (Statistical Learni
 
 The main technical report is [`SLDS_Report.pdf`](./SLDS_Report.pdf), which summarizes methodology, experiments, and results.
 
+This project was completed with substantial support from teammates; see the Author section in the report for detailed collaborator information.
+
 ### Report Highlights (from `SLDS_Report.pdf`)
 
 #### Task 1: Regression for Life Expectancy Prediction
@@ -152,6 +154,8 @@ Important note:
 - **Task 2**：基于豆瓣影评的情感分类（传统机器学习 + LLM 方法）。
 
 主要技术报告为 [`SLDS_Report.pdf`](./SLDS_Report.pdf)。
+
+本项目在队友的帮助下完成，具体合作者信息请见报告的 Author 部分。
 
 ### 报告核心结论（摘自 `SLDS_Report.pdf`）
 
